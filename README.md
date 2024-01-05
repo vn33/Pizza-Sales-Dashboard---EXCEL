@@ -1,5 +1,7 @@
 # Pizza-Sales-Dashboard-EXCEL-SQL
 
+![Pizza Sales Dashboard](https://github.com/vn33/Pizza-Sales-Dashboard---EXCEL/blob/master/image.jpg)
+
 ## Overview
 
 The Pizza Sales Dashboard combines SQL and Excel to provide a dynamic visual representation of pizza sales data. Analyze the data with SQL queries and verify insights through an intuitive Excel dashboard for informed decision-making.
